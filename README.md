@@ -29,7 +29,7 @@ Cualquier detalle, dejar un pull request.
 
 ## Agradecimientos
 
-Este proyecto fue una refactorizacion del repositorio https://github.com/wadahiro/keycloak-discord para utilizar mercado libre como SSO.
+Este proyecto es una refactorizacion del repositorio https://github.com/wadahiro/keycloak-discord para utilizar mercado libre como SSO.
 
 ## Autor
 
