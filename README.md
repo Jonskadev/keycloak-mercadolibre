@@ -33,4 +33,4 @@ Este proyecto es una refactorizacion del repositorio https://github.com/wadahiro
 
 ## Autor
 
-- [Juan Carlos Olguín](https://jolguin.tk)
+- [Juan Carlos Olguín](https://jolguin.cl)
