@@ -31,6 +31,10 @@ Cualquier detalle, dejar un pull request.
 
 Este proyecto es una refactorizacion del repositorio https://github.com/wadahiro/keycloak-discord para utilizar mercado libre como SSO.
 
+## Dame un café!
+
+https://ko-fi.com/jolguin
+
 ## Autor
 
 - [Juan Carlos Olguín](https://jolguin.cl)
