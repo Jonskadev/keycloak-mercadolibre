@@ -33,7 +33,7 @@ Este proyecto es una refactorizacion del repositorio https://github.com/wadahiro
 
 ## Dame un café!
 
-https://ko-fi.com/jolguin
+- https://ko-fi.com/jolguin
 
 ## Autor
 
